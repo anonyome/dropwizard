@@ -572,7 +572,7 @@
             <dependency>
                 <groupId>io.dropwizard</groupId>
                 <artifactId>dropwizard-client</artifactId>
-                <version>${project.version}</version>
+                <version>${project.version}-ANONYOME-1</version>
             </dependency>
             <dependency>
                 <groupId>io.dropwizard</groupId>
